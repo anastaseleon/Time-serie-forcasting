@@ -1,2 +1,4 @@
-# TimeSerieForecasting_AdventureWorks-SSARIMA
-Using Arima to forecast quantitysolde
+# TimeSerieForecasting_AdventureWorks-SARIMA
+Using Arima to forecast quantity
+First commit. 
+
